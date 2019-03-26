@@ -1,4 +1,4 @@
-Pleeco Individual Contributor License Agreement
+Pleeco Contributor License Agreement
 ===============================================
 
 Version 1.0
