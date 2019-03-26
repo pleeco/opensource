@@ -80,5 +80,22 @@ Furthermore:
   with the fact that You have signed this Agreement, then You agree to
   inform Pleeco about the problem, without any undue delay.
 
+
+Signed,
+
+[your signature]
+
+[your full name]
+
+[your github userid]
+
+[your email address]
+
+[your address]
+
+[your phone number]
+
+
+----
 The text of this license is distributed without any warranty under CC0 1.0
 (See <http://creativecommons.org/publicdomain/zero/1.0/>)
