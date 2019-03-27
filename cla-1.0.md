@@ -97,5 +97,5 @@ Signed,
 
 
 ----
-The text of this license is distributed without any warranty under CC0 1.0
-(See <http://creativecommons.org/publicdomain/zero/1.0/>)
+_The text of this license is distributed without any warranty under CC0 1.0
+(See <http://creativecommons.org/publicdomain/zero/1.0/>)_
